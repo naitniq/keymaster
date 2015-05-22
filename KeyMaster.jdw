@@ -1,0 +1,19 @@
+## RIM Java Development Environment
+# RIM Workspace file
+[BuildConfigurations
+Debug
+Release
+]
+DependenciesInWorkspace=0
+[ImplicitRules
+]
+[Imports
+]
+[Projects
+KeyMaster.jdp
+KeyMasterInit.jdp
+]
+[ReleaseActiveProjects
+KeyMaster.jdp
+KeyMasterInit.jdp
+]

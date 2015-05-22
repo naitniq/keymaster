@@ -1,0 +1,46 @@
+<loader version="1.0">
+	<application id="KeyMaster">
+		<name >
+			KeyMaster
+		</name>
+		<description >
+			BBDEV.ORG
+		</description>
+		<version >
+			2.0.0
+		</version>
+		<vendor >
+			BBDEV.ORG
+		</vendor>
+		<copyright >
+			Copyright (c) 2010 BBDEV.ORG
+		</copyright>
+		<language langid="0x0009">
+			<name >
+				KeyMaster
+			</name>
+			<description >
+				Custom shortkey
+			</description>
+		</language>
+		<language langid="0x0804">
+			<name>
+				KeyMaster
+			</name>
+			<description >
+				Custom shortkey
+			</description>
+		</language>
+		<fileset Java="1.24">
+			<directory >
+				
+			</directory>
+			<files >
+				KeyMaster.cod
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
